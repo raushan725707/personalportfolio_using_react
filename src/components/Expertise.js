@@ -15,8 +15,7 @@ function Expertise() {
         
       }} className='flex justify-center'>
 <div className='w-2/3 text-center space-y-4'><h1 className='text-4xl font-semibold'>I love these Technology</h1>       
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam explicabo aut culpa ducimus. Nam, enim sunt recusandae quidem quisquam sequi sapiente harum, ab voluptas nemo saepe nobis possimus consectetur. Accusamus.</p>
-       
+<p>With expertise spanning COREJAVA, J2EE, Spring Boot, Hibernate/JPA, HTML, CSS, JavaScript, React, Digital Ocean, and Postman API, I'm equipped to tackle diverse technological challenges with precision and finesse, ensuring robust solutions and seamless integration across platforms.</p>       
        <button className='px-4 py-2 bg-orange-500 rounded-full shadow-lg text-2xl'>Hire Me</button></div>
            </div>
 

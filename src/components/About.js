@@ -12,8 +12,15 @@ function About() {
 <div className='w-full flex justify-center'>
 <div className='space-y-5 w-2/3'>
     <h1 className='text-5xl font-semibold p'>Java developer and React Js Developer</h1>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis, accusantium. Voluptate sint ex ipsa blanditiis laboriosam eligendi a ratione mollitia.</p>
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo alias ullam corrupti voluptates ex quod sit culpa, repellat impedit voluptatem! Eligendi reiciendis aperiam quas ea, voluptatum delectus modi reprehenderit dolor.</p>
+
+<p>With a passion for crafting efficient and scalable solutions, I thrive in dynamic environments.
+   My expertise extends from backend Java development to frontend React JS, 
+   ensuring seamless integration and user-centric experiences. Dedicated to continuous learning, 
+   </p><p>I embrace challenges eagerly, leveraging my expertise to deliver innovative solutions. 
+   Committed to excellence, I excel in problem-solving and collaboration, 
+   driven by a relentless pursuit of excellence. With a strong foundation in software development,
+   I navigate complexities with ease, striving for excellence in every project I undertake.</p>
+
 <button className=' text-1xl  px-3 py-2 bg-orange-500 rounded-full shadow-lg'>Read more.....</button></div>
 </div>
 
